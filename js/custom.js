@@ -27,7 +27,7 @@ $("#layer .close").click(function(e) {
     //$("#layer").css("display", "block"); 디스플레이 속성을 block로 바꿈.
     //$("#layer").show();
     //$("#layer").fadeIn();
-    $("#layer").slidUp();
+    $("#layer").slideUp();
 });
 
 //탭메뉴 
