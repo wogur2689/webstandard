@@ -6,9 +6,7 @@
 #skip a:focus {top: 0;}
 
 /* 레이아웃 */
-#wrap {}
 #header { height: 325px; background: url(../img/header_bg.jpg) center top repeat-x; }
-#contents { }
 #footer { border-top: 1px solid #eee;}
 
 /* 컨텐츠 레이아웃 */
@@ -131,7 +129,6 @@
 /* 게시판2 */
 .notice2 {position: relative; margin-top: 15px;}
 .notice2 h4 {font-size: 14px; color: #0093bd; padding-bottom: 3px; font-weight: bold;}
-.notice2 ul {}
 .notice2 li {overflow: hidden; background: url(../img/dot.gif) no-repeat 0 8px; padding-left: 8px;}
 .notice2 li a {float: left; width: 65%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
 .notice2 li span {float: right; width: 30%; text-align: right;}
@@ -159,7 +156,6 @@
 .notice_hover li a strong {padding-top: 3px; display: inline-block; font-size: 12px;}
 
 /* 마우스 오버효과2 */
-.notice_hover2 {}
 .notice_hover2 ul {overflow: hidden;}
 .notice_hover2 li {float: left; width: 93px; text-align: center; margin-right: 5px;}
 .notice_hover2 li.last {margin-right: 0;}
